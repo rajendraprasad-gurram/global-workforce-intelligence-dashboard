@@ -1,0 +1,17 @@
+# Dataset
+
+This project uses the **Stack Overflow Developer Survey 2025** public dataset.
+
+## Official Source
+
+https://survey.stackoverflow.co/2025
+
+## Dataset File
+
+survey_results_public.csv
+
+## Note
+
+The dataset is not included in this repository to respect the original dataset license and distribution terms.
+
+Please download the dataset from the official Stack Overflow Developer Survey website.
