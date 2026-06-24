@@ -90,7 +90,7 @@ Explores workplace dynamics including:
 - Work Mode Preferences
 - Organization Size
 
----
+---![Work Environment & Career Insights](https://github.com/rajendraprasad-gurram/global-workforce-intelligence-dashboard/blob/main/Images/Work_Environment_Career_Insights.png.png?raw=true)
 
 # Skills Demonstrated
 
