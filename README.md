@@ -54,7 +54,7 @@ Provides an executive summary of:
 - Work Mode Distribution
 - Education Level Salary
 
----
+---![Executive Overview](https://github.com/rajendraprasad-gurram/global-workforce-intelligence-dashboard/blob/main/Images/Executive_Overview.png.png?raw=true)
 
 ## 2️⃣ Compensation Analytics
 
