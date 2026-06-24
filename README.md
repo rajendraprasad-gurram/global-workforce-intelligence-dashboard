@@ -66,7 +66,7 @@ Focuses on compensation trends across:
 - Education Levels
 - Developer Roles
 
----
+---![Compensation Analytics](https://github.com/rajendraprasad-gurram/global-workforce-intelligence-dashboard/blob/main/Images/Compensation_Analytics.png.png?raw=true)
 
 ## 3️⃣ Workforce Demographics
 
