@@ -78,7 +78,7 @@ Analyzes workforce composition using:
 - Leadership Structure
 - Workforce KPIs
 
----
+---![Workforce Demographics](https://github.com/rajendraprasad-gurram/global-workforce-intelligence-dashboard/blob/main/Images/Workforce_Demographics.png.png?raw=true)
 
 ## 4️⃣ Work Environment & Career Insights
 
